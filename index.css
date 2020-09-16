@@ -1,0 +1,16 @@
+#container-1 {
+    display: flex;
+    justify-content: space-around;
+}
+
+#container-list {
+    border: 1px solid black;
+    margin: 0 0.5em;
+    padding: 0.5em;
+    width: 20%;
+}
+
+#amiibo-pic {
+    border: 1px solid black;
+    width: 80%;
+}
